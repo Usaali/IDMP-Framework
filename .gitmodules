@@ -1,0 +1,12 @@
+[submodule "ur_ros_driver"]
+	path = ur_ros_driver
+	url = git@github.com:AdrianMuell/ur_ros_driver.git
+[submodule "rmp2_ros"]
+	path = rmp2_ros
+	url = git@github.com:AdrianMuell/rmp2_ros.git
+[submodule "IDMP"]
+	path = IDMP
+	url = git@github.com:Usaali/IDMP.git
+[submodule "ur5_hand-e_description"]
+	path = ur5_hand-e_description
+	url = git@github.com:Usaali/ur5_hand-e_description.git
